@@ -24,11 +24,12 @@
 ;;; Commentary:
 
 ;; This color theme is made to be used in GNU Emacs and require the
-;; color-theme.el library
+;; color-theme library
 
 ;; Usage:
 
-;; Just use the `load-theme' command, and type the name of the theme
+;; Just use the command `color-theme-darkmine' to load it
+;; Or simply add (color-theme-darkmine) in your emacs configuration file
 
 ;;; Code:
 
