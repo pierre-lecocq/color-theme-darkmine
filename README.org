@@ -1,1 +1,3 @@
 Yet another emacs dark color theme
+
+[[file:screenshot.png][Screenshot]]
