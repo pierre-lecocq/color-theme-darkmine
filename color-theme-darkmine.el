@@ -49,11 +49,12 @@
      (mode-line ((t (:foreground "#FFFFFF" :background "#282828"))))
      (mode-line-inactive ((t (:foreground "#939393" :background "#1f1f1f"))))
      (region ((t (:foreground "#FFFFFF" :background "#282828"))))
+     (which-func ((t (:foreground "#1D68C4"))))
 
      (font-lock-comment-face ((t (:foreground "#a5a5a5"))))
      (font-lock-constant-face ((t (:foreground "#8dd7e9"))))
      (font-lock-builtin-face ((t (:foreground "#7FFFD4"))))
-     (font-lock-function-name-face ((t (:foreground "##1D68C4"))))
+     (font-lock-function-name-face ((t (:foreground "#1D68C4"))))
      (font-lock-variable-name-face ((t (:foreground "#d46a6a"))))
      (font-lock-keyword-face ((t (:foreground "#5FB7CC"))))
      (font-lock-string-face ((t (:foreground "#aa3939"))))
