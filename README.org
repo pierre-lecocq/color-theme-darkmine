@@ -1,3 +1,5 @@
 Yet another emacs dark color theme
 
 [[./screenshot.png]]
+
+[[https://raw.githubusercontent.com/pierre-lecocq/color-theme-darkmine/master/screenshot.png][(See full size)]]
